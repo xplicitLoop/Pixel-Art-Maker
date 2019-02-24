@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-display: fallback;
+  font-family: Monoton;
+  font-size:70px;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: auto;
+  height: auto;
+}
+
+.rand {
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: center;
+  weight: auto;
+  height: auto;
+  outline: 0px;
+}
+
+.square {
+  width: 30px;
+  height: 30px;
+  outline: 1px solid black;
+  vertical-align: center;
+}
