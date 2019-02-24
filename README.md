@@ -5,6 +5,8 @@ This is final project for the first stage of the Udacity Front-End Development C
 
 Technologies
 The project was developed using HTML; CSS3 and Basic Javascript.
+In most of the Udacity Projects, skeletal codes are usually given, it is the responsibility of the students
+to enhance the needed functionalities.
 
 Details
 It involved drawing of a grid
